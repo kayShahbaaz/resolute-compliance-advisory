@@ -1,0 +1,39 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Build scripts (not for public repo)
+build_*.js
+build_*.py
+
+# Internal master file (keep locally, not on GitHub)
+PROJECT_MASTER.md
+
+# Node
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
