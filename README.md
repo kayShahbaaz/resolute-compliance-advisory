@@ -224,7 +224,6 @@ resolute-compliance-advisory/
     └── RCA-P3C-005_Executive_Summary.docx
 ```
 
-
 ---
 ## Connect
 
